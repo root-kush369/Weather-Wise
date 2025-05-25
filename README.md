@@ -98,4 +98,4 @@ Got questions or feedback? Reach out to me at [5kushbharwdaj7@gmail.com] or open
 
 ---
 
-Built with ❤️ by Kush Sharma
+Built with ❤️ by Kush Bhardwaj
