@@ -90,7 +90,7 @@ Want to improve this app? Fork the repository, make your changes, and submit a p
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📬 Contact
 
