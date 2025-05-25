@@ -1,11 +1,11 @@
-# Weather App 🌦️
+# Weather Spark 🌦️
 
-A sleek and interactive Weather App built with HTML, CSS, and JavaScript! Check the weather for your location or any city with a modern, user-friendly design. Stay prepared for the day! ☀️🌧️
+A sleek and interactive weather app built with HTML, CSS, and JavaScript! Check the weather for your location or any city with a modern, user-friendly design. Stay prepared for the day! ☀️🌧️
 
 ## 🎥 Demo
 
-Play live [here](https://your-weather-app.netlify.app) or see the action below! 🎮  
-![Weather App Demo](weath.gif)
+Play live [here](https://weatherspark.netlify.app) or see the action below! 🎮  
+![Weather Spark Demo](weath.gif)
 
 ## 🌟 Features
 
@@ -28,7 +28,7 @@ A stylish weather app to stay updated! 🌞
 ## 📂 Project Structure
 
 ```
-WeatherApp/
+weather-spark/
 - assets/               # Folder for images and icons 🖼️
   - cloud.png           # Icon for cloudiness
   - favicon.ico         # Favicon for the app
@@ -50,12 +50,12 @@ WeatherApp/
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/root-kush369/weather-wise.git
+   git clone https://github.com/root-kush369/WeatherSpark.git
    ```
 2. **Navigate to the Project Directory**:
 
    ```bash
-   cd weather-wise
+   cd weather-spark
    ```
 3. **Get an API Key**:
    - Sign up at [OpenWeatherMap](https://openweathermap.org/) and get a free API key.
@@ -94,7 +94,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📬 Contact
 
-Got questions or feedback? Reach out to me at [5kushbhardwaj7@gmail.com] or open an issue on GitHub. Let’s talk about coding! 💬
+Got questions or feedback? Reach out to me at [5kushbharwdaj7@gmail.com] or open an issue on GitHub. Let’s talk about coding! 💬
 
 ---
 
